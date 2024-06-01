@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mnist</string>
+    <string name="title_activity_content">手写数字识别</string>
+    <string name="title_activity_output">识别结果</string>
+    <string name="btn4_string">提交识别</string>
+    <string name="take_photo_string">重新拍照</string>
+</resources>
